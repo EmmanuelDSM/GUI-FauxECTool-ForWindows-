@@ -8,7 +8,7 @@ int main (){
 
 
     int a = 900;
-    int b = 250;
+    int b = 2500;
 
     int sum = a + b;
 
