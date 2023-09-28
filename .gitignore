@@ -1,0 +1,6 @@
+# Ignore IDE parameters
+/.vs
+/.vscode
+
+#Ignore the debug folder 
+/build

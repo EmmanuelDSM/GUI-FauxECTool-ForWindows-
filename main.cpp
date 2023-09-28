@@ -1,6 +1,11 @@
 #include <iostream>
 
+
+
 int main (){
+
+
+
 
     int a = 900;
     int b = 250;
